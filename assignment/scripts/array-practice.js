@@ -28,8 +28,8 @@ console.log('Second animal is a', animalArray[1])
 console.log('Last animal is a', animalArray[3]);
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
 //      instead of the exact index number of the last item
-for (let last animal in animalArray) {
-  console.log(`${last animal} be ${animalArray[3]}`);
+for (let lastAnimal in animalArray) {
+  console.log(lastAnimal);
 }
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
